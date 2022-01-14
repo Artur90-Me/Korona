@@ -1,3 +1,1 @@
-# Korona
-Artur90 80
-Yura 100
+show=false
